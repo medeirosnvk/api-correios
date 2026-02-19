@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: api-correios
+    runtime: node
+    rootDir: api
+    buildCommand: npm install
+    startCommand: node server.js
+    plan: free
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: RAPIDAPI_KEY
+        sync: false

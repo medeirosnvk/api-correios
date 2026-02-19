@@ -4,7 +4,7 @@ import { Rastreamento } from '../types';
 // Para testar em dispositivo físico, use o IP da máquina na rede local: http://192.168.x.x:3000/api
 const BASE_URL = __DEV__
   ? 'http://localhost:3000/api'
-  : 'https://sua-api.exemplo.com/api';
+  : 'https://api-correios.onrender.com/api';
 
 async function request<T>(path: string, options?: RequestInit): Promise<T> {
   const url = `${BASE_URL}${path}`;
