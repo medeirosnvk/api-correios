@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Rastreamento Correios",
+    "slug": "rastreamento-correios",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.correios.rastreamento"
+    },
+    "android": {
+      "package": "com.correios.rastreamento"
+    }
+  }
+}
