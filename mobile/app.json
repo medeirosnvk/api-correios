@@ -12,6 +12,12 @@
     },
     "android": {
       "package": "com.correios.rastreamento"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "099729a9-9954-4a24-b9e1-d2d96aef0917"
+      }
+    },
+    "owner": "medeirosnvk"
   }
 }
