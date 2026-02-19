@@ -2,6 +2,12 @@
 
 Aplicativo mobile + API REST para rastrear encomendas dos Correios (nacionais e importações) sem necessidade de contrato ou cartão de postagem.
 
+<div align="center">
+  <img src="docs/home.png" width="260" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/tracking.png" width="260" />
+</div>
+
 ---
 
 ## Funcionalidades
